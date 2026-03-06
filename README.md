@@ -29,6 +29,59 @@ Tenho experiência desenvolvendo:
 
 ---
 
+# Projetos Principais
+
+### Sistema de Integração Logística
+
+Sistema responsável por processar pedidos e integrar marketplaces com sistemas logísticos.
+
+Funcionalidades:
+
+- processamento de webhooks
+- integração com APIs de marketplaces
+- processamento de eventos
+- arquitetura escalável para alto volume de pedidos
+
+Tecnologias utilizadas:
+
+- C#
+- Node.js
+- APIs REST
+- SQL Server
+
+---
+
+### Integração Bancária
+
+Implementação de integrações com APIs bancárias para automação de pagamentos e cobranças.
+
+Funcionalidades:
+
+- geração de boletos
+- processamento de pagamentos
+- integração com PIX
+- conciliação de transações
+
+Bancos integrados:
+
+- Banco Inter
+- Banco Itaú
+
+---
+
+### Sistema de Análise de Vulnerabilidades (TCC)
+
+Sistema web para análise de vulnerabilidades em aplicações web.
+
+Funcionalidades:
+
+- análise estática de código
+- análise dinâmica de aplicações web
+- monitoramento de repositórios
+- geração de alertas de segurança
+
+---
+
 # Tecnologias
 
 ### Linguagens e Backend
@@ -158,6 +211,12 @@ Durante minha trajetória de desenvolvimento já trabalhei com:
 
 ---
 
+# Conquistas no GitHub
+
+![trophy](https://github-profile-trophy.vercel.app/?username=AdrianLopes97&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
 # Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdrianLopes97&show_icons=true&theme=tokyonight&hide_border=true)
@@ -171,6 +230,12 @@ Durante minha trajetória de desenvolvimento já trabalhei com:
 # Atividade no GitHub
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdrianLopes97&theme=tokyo-night)
+
+---
+
+# Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/AdrianLopes97/AdrianLopes97/output/snake.svg)
 
 ---
 
