@@ -1,24 +1,27 @@
 # Adrian Lopes
 
-Desenvolvedor focado em Back-end, Integrações e Cloud  
-Experiência com C#, Node.js, APIs e Arquitetura de Integrações  
-Interesse em Segurança de Software e Automação de Processos  
-Bacharel em Ciência da Computação
+Backend Developer especializado em integrações de sistemas e arquitetura de APIs.
+
+Experiência com C#, Node.js, automação de processos e integrações com serviços externos como bancos, marketplaces e plataformas de comunicação.
+
+Interesse em segurança de software, automação de pipelines e arquitetura escalável.
+
+Bacharel em Ciência da Computação.
 
 ---
 
 # Sobre mim
 
-Sou desenvolvedor com foco em desenvolvimento backend, integrações entre sistemas e automação de processos.
+Sou desenvolvedor com foco em **backend, integrações entre sistemas e automação de processos**.
 
-Minha principal linguagem é **C#**, onde possuo maior experiência profissional, trabalhando com construção de APIs, integrações entre sistemas e processamento de dados.
+Minha principal linguagem é **C#**, onde possuo maior experiência profissional, trabalhando com construção de APIs, integrações entre serviços e processamento de dados.
 
-Também tenho experiência com **Node.js e TypeScript**, principalmente para integrações e serviços backend.
+Também possuo experiência com **Node.js e TypeScript**, principalmente em serviços de integração e processamento de eventos.
 
-Tenho experiência construindo:
+Tenho experiência desenvolvendo:
 
 - APIs escaláveis
-- Integrações com plataformas externas
+- Sistemas de integração entre plataformas
 - Processamento de webhooks
 - Automação de pipelines
 - Sistemas distribuídos
@@ -60,77 +63,68 @@ Tenho experiência construindo:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell%20script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+Experiência com:
+
+- GitHub Actions
+- automação de pipelines
+- execução automatizada de scripts
+- integração entre repositórios e sistemas
+- criação de scripts de automação em Shell
+
 ---
 
-# Integrações que já desenvolvi
+# Integrações desenvolvidas
 
-Tenho experiência integrando sistemas com diversas plataformas e serviços externos.
+Tenho experiência integrando sistemas com diferentes plataformas e serviços externos.
 
-### Plataformas de E-commerce
+### Marketplaces
 
 - Shopify
 - Mercado Livre
 - Shopee
 
-### Sistemas de pagamento e bancos
+### Sistemas bancários
 
-Integrações com:
+Integrações com APIs bancárias para processamento de:
+
+- PIX
+- boletos
+- transações financeiras
+
+Bancos integrados:
 
 - Banco Inter
 - Banco Itaú
 
-Processando:
-
-- PIX
-- boletos
-- transações bancárias
-
 ### Comunicação e notificações
 
-- Integração com Meta / WhatsApp para envio de notificações
+- Integração com API da Meta para envio de notificações via WhatsApp
 - Integração com Slack para alertas e notificações de sistemas
 
-### DevOps e automação
+### Automação e CI/CD
 
 - Integração com GitHub para disparo de GitHub Actions
-- Criação de pipelines automatizados
-- Automação de processos entre sistemas
-
----
-
-# Automação e DevOps
-
-Experiência com automação de processos utilizando:
-
-- GitHub Actions
 - automação de pipelines
-- execução automatizada de scripts
-- integração entre repositórios e sistemas externos
-
-Também possuo experiência com:
-
-- Shell Script
-- criação de scripts automatizados
-- automação de tarefas operacionais
+- automação de processos entre sistemas
 
 ---
 
-# IA, Automação e Agentes
+# Automação e Inteligência Artificial
 
-Tenho explorado ferramentas de automação e inteligência artificial aplicadas ao desenvolvimento:
+Experiência explorando automação de fluxos e ferramentas de IA:
 
 - criação de scripts de automação em Python
 - construção de APIs simples em Python
-- uso de n8n para automação de fluxos
+- automação de fluxos com n8n
 - experimentação com agentes e automações baseadas em IA
 
 ---
 
-# Experiência acadêmica e estudos
+# Experiência acadêmica
 
 ### Segurança de aplicações web
 
-Projeto de TCC voltado para:
+Projeto de TCC voltado para análise de vulnerabilidades em aplicações web utilizando:
 
 - análise estática de código (SAST)
 - análise dinâmica de vulnerabilidades (DAST)
@@ -141,17 +135,19 @@ Projeto de TCC voltado para:
 
 ### Algoritmos Genéticos
 
-Desenvolvimento de solução utilizando Algoritmos Genéticos para resolver equações matemáticas complexas.
+Desenvolvimento de solução utilizando algoritmos genéticos para resolução de equações matemáticas complexas.
 
 ---
 
 ### Compiladores com ANTLR
 
-Criação de analisadores léxicos e sintáticos em C# utilizando ANTLR para reconhecer estruturas da linguagem C.
+Criação de analisadores léxicos e sintáticos em C# utilizando ANTLR para reconhecimento de estruturas da linguagem C.
 
 ---
 
-# Linguagens que já utilizei
+# Linguagens utilizadas
+
+Durante minha trajetória de desenvolvimento já trabalhei com:
 
 - C#
 - Node.js / TypeScript
@@ -180,7 +176,8 @@ Criação de analisadores léxicos e sintáticos em C# utilizando ANTLR para rec
 
 # Contato
 
-Email: adrianllopes97@gmail.com  
+Email  
+adrianllopes97@gmail.com  
 
 LinkedIn  
 https://www.linkedin.com/in/adrian-lopes-667267201
