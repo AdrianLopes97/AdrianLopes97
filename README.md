@@ -166,6 +166,8 @@ Criação de analisadores léxicos e sintáticos em C# utilizando ANTLR para rec
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdrianLopes97&show_icons=true&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=AdrianLopes97&theme=tokyonight&hide_border=true)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdrianLopes97&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
