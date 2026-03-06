@@ -1,15 +1,15 @@
-# 👋 Olá, eu sou Adrian Lopes
+# Adrian Lopes
 
-💻 Desenvolvedor focado em **Back-end, Integrações e Cloud**  
-🚀 Experiência com **C#, Node.js, APIs e Arquitetura de Integrações**  
-🔐 Interesse em **Segurança de Software e Automação de Processos**  
-🎓 Bacharel em **Ciência da Computação**
+Desenvolvedor focado em Back-end, Integrações e Cloud  
+Experiência com C#, Node.js, APIs e Arquitetura de Integrações  
+Interesse em Segurança de Software e Automação de Processos  
+Bacharel em Ciência da Computação
 
 ---
 
-# 🚀 Sobre mim
+# Sobre mim
 
-Sou desenvolvedor com foco em **desenvolvimento backend, integrações entre sistemas e automação de processos**.
+Sou desenvolvedor com foco em desenvolvimento backend, integrações entre sistemas e automação de processos.
 
 Minha principal linguagem é **C#**, onde possuo maior experiência profissional, trabalhando com construção de APIs, integrações entre sistemas e processamento de dados.
 
@@ -26,7 +26,7 @@ Tenho experiência construindo:
 
 ---
 
-# 🛠 Tecnologias
+# Tecnologias
 
 ### Linguagens e Backend
 
@@ -54,7 +54,7 @@ Tenho experiência construindo:
 
 ---
 
-### Cloud & DevOps
+### Cloud e DevOps
 
 ![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -62,7 +62,7 @@ Tenho experiência construindo:
 
 ---
 
-# 🔗 Integrações que já desenvolvi
+# Integrações que já desenvolvi
 
 Tenho experiência integrando sistemas com diversas plataformas e serviços externos.
 
@@ -87,20 +87,20 @@ Processando:
 
 ### Comunicação e notificações
 
-- Integração com **Meta / WhatsApp** para envio de notificações
-- Integração com **Slack** para alertas e notificações de sistemas
+- Integração com Meta / WhatsApp para envio de notificações
+- Integração com Slack para alertas e notificações de sistemas
 
 ### DevOps e automação
 
-- Integração com **GitHub** para disparo de **GitHub Actions**
+- Integração com GitHub para disparo de GitHub Actions
 - Criação de pipelines automatizados
 - Automação de processos entre sistemas
 
 ---
 
-# ⚙️ Automação e DevOps
+# Automação e DevOps
 
-Tenho bastante experiência com automação de processos utilizando:
+Experiência com automação de processos utilizando:
 
 - GitHub Actions
 - automação de pipelines
@@ -115,20 +115,20 @@ Também possuo experiência com:
 
 ---
 
-# 🤖 IA, Automação e Agentes
+# IA, Automação e Agentes
 
-Tenho explorado ferramentas de automação e inteligência artificial aplicadas a desenvolvimento:
+Tenho explorado ferramentas de automação e inteligência artificial aplicadas ao desenvolvimento:
 
 - criação de scripts de automação em Python
 - construção de APIs simples em Python
-- uso de **n8n** para automação de fluxos
-- experimentação com **agentes e automações baseadas em IA**
+- uso de n8n para automação de fluxos
+- experimentação com agentes e automações baseadas em IA
 
 ---
 
-# 🧠 Experiência acadêmica e estudos
+# Experiência acadêmica e estudos
 
-### 🔍 Segurança de aplicações web
+### Segurança de aplicações web
 
 Projeto de TCC voltado para:
 
@@ -139,19 +139,19 @@ Projeto de TCC voltado para:
 
 ---
 
-### 🧬 Algoritmos Genéticos
+### Algoritmos Genéticos
 
-Desenvolvimento de solução utilizando **Algoritmos Genéticos** para resolver equações matemáticas complexas.
-
----
-
-### 🧩 Compiladores com ANTLR
-
-Criação de analisadores léxicos e sintáticos em **C# utilizando ANTLR** para reconhecer estruturas da linguagem C.
+Desenvolvimento de solução utilizando Algoritmos Genéticos para resolver equações matemáticas complexas.
 
 ---
 
-# 💻 Linguagens que já utilizei
+### Compiladores com ANTLR
+
+Criação de analisadores léxicos e sintáticos em C# utilizando ANTLR para reconhecer estruturas da linguagem C.
+
+---
+
+# Linguagens que já utilizei
 
 - C#
 - Node.js / TypeScript
@@ -162,24 +162,26 @@ Criação de analisadores léxicos e sintáticos em **C# utilizando ANTLR** para
 
 ---
 
-# 📊 Estatísticas do GitHub
+# Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianLopes97&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdrianLopes97&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLopes97&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdrianLopes97&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-# 📫 Contato
+# Atividade no GitHub
 
-📧 Email: adrianllopes97@gmail.com  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdrianLopes97&theme=tokyo-night)
 
-💼 LinkedIn  
+---
+
+# Contato
+
+Email: adrianllopes97@gmail.com  
+
+LinkedIn  
 https://www.linkedin.com/in/adrian-lopes-667267201
 
-🐙 GitHub  
+GitHub  
 https://github.com/AdrianLopes97
-
----
-
-⭐ Sempre interessado em aprender novas tecnologias e construir soluções escaláveis.
